@@ -1,6 +1,6 @@
-# Motocue QR Codes CIO 2025
+# QR code generator
 
-This script generates 400 unique QR codes using the Flowcode API, each redirecting to a unique Motocue URL for the CIO 2025 event.
+This script generates 400 unique QR codes using the Flowcode API, each redirecting to a unique URL for the Motocue + CIO 2025 event.
 
 ## Setup
 
